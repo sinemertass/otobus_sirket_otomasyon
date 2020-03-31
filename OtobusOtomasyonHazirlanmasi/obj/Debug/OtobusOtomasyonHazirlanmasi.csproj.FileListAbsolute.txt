@@ -1,0 +1,6 @@
+C:\Users\lenovo\Desktop\OtobusOtomasyonu\OtobusOtomasyonHazirlanmasi\obj\Debug\OtobusOtomasyonHazirlanmasi.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\OtobusOtomasyonu\OtobusOtomasyonHazirlanmasi\obj\Debug\OtobusOtomasyonHazirlanmasi.Form1.resources
+C:\Users\lenovo\Desktop\OtobusOtomasyonu\OtobusOtomasyonHazirlanmasi\obj\Debug\OtobusOtomasyonHazirlanmasi.FrmMain.resources
+C:\Users\lenovo\Desktop\OtobusOtomasyonu\OtobusOtomasyonHazirlanmasi\obj\Debug\OtobusOtomasyonHazirlanmasi.Properties.Resources.resources
+C:\Users\lenovo\Desktop\OtobusOtomasyonu\OtobusOtomasyonHazirlanmasi\obj\Debug\OtobusOtomasyonHazirlanmasi.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\OtobusOtomasyonu\OtobusOtomasyonHazirlanmasi\obj\Debug\OtobusOtomasyonHazirlanmasi.csproj.CoreCompileInputs.cache

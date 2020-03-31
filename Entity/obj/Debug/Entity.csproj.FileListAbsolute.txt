@@ -1,0 +1,6 @@
+C:\Users\lenovo\Desktop\OtobusOtomasyonu\Entity\bin\Debug\Entity.dll
+C:\Users\lenovo\Desktop\OtobusOtomasyonu\Entity\bin\Debug\Entity.pdb
+C:\Users\lenovo\Desktop\OtobusOtomasyonu\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\OtobusOtomasyonu\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\OtobusOtomasyonu\Entity\obj\Debug\Entity.dll
+C:\Users\lenovo\Desktop\OtobusOtomasyonu\Entity\obj\Debug\Entity.pdb

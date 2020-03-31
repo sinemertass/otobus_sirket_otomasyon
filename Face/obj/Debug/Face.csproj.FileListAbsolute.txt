@@ -1,0 +1,9 @@
+C:\Users\lenovo\Desktop\OtobusOtomasyonu\Face\obj\Debug\Face.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\OtobusOtomasyonu\Face\obj\Debug\Face.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\OtobusOtomasyonu\Face\bin\Debug\Face.dll
+C:\Users\lenovo\Desktop\OtobusOtomasyonu\Face\bin\Debug\Face.pdb
+C:\Users\lenovo\Desktop\OtobusOtomasyonu\Face\bin\Debug\Entity.dll
+C:\Users\lenovo\Desktop\OtobusOtomasyonu\Face\bin\Debug\Entity.pdb
+C:\Users\lenovo\Desktop\OtobusOtomasyonu\Face\obj\Debug\Face.csproj.CopyComplete
+C:\Users\lenovo\Desktop\OtobusOtomasyonu\Face\obj\Debug\Face.dll
+C:\Users\lenovo\Desktop\OtobusOtomasyonu\Face\obj\Debug\Face.pdb
