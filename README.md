@@ -32,7 +32,7 @@
 - Veritabanında eklenmiş olan şube adları ve hangi şehirde bulunduğu bilgileri liste halinde gözükür.
 - Sağ kısımda ‘Şube Adı’ seçildiğinde şehir adı ile ilgili kısımlar da veritabanı bilgisine bağlı olarak ekrana gelir, böylece Güncelle butonu da aktif hale geçer. 
 - Bulunan butonlar aracılığıyla şube ekleme ve silme işlemleri de gerçekleşir.
-![5](https://user-images.githubusercontent.com/49760031/78077639-6179cf80-73b1-11ea-8d6f-02b08731bb40.png)
+![6](https://user-images.githubusercontent.com/49760031/78176907-f211e780-7465-11ea-9fc1-d35941e67567.png)
 
 ## Şube Detayları Görüntüsü
 - Listelenen herhangi bir satırına çift tıklanırsa, tıklanan şubenin detaylarını Şube Detayları formuna getirir.
